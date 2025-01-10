@@ -25,5 +25,5 @@
 
 ### 📊 **Learning Progress Tracker:**  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atabzo&theme=tokyonight" width="1000" height="300" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atabzo&theme=tokyonight" width="1000" height="290" alt="Profile Summary"/>
 </p>
