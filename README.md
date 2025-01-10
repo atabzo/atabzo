@@ -1,8 +1,8 @@
-# Heyyy there, I'm Bhanu :)
+# Heyyy there! I'm Bhanu :)
 
 🔍 **Exploring the world of code, creativity, and innovation.**  
 
-💡 **Passionate about:**  
+### 💡 **Passionate about:**  
 - Photography/Cinematography
 - Adventure Lores? Hell yeah.
 - Coding meaningful projects
@@ -17,7 +17,7 @@
 
 ---
 
-### 💬 **Let's Connect:**  
+### 💬 **Checkout**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabzo/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atabzo)  
 
