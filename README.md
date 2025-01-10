@@ -1,4 +1,4 @@
-# Heyy there, I'm Bhanu :)
+# Heyyy there, I'm Bhanu :)
 
 🔍 **Exploring the world of code, creativity, and innovation.**  
 
