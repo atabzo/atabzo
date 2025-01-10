@@ -17,9 +17,9 @@
 
 ---
 
-### 💬 **Checkout**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabzo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atabzo)  
+### 🦅 I guess, that's all?
+Nothing much honestly but thanks for reading! I'll make sure to update this once I get with this college entrance arc and finally get some time up my sleeves :)
+![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
 
 ---
 
@@ -30,11 +30,9 @@
 
 ---
 
-### 🦅 I guess, that's all?
-Nothing much honestly but thanks for reading! I'll make sure to update this once I get with this college entrance arc and finally get some time up my sleeves :)
-<p align="left">
-  <img src="![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/ee3bbad6-a9ec-45f6-a900-bab5b0e0b4d7)" alt="Enhanced Image" width="600" />
-</p>
+### 💬 **Checkout**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabzo/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atabzo)  
 
 
 
