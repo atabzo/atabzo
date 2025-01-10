@@ -23,8 +23,7 @@
 
 ---
 
-### 📈 **GitHub Stats:**  
+### 📊 **Learning Progress Tracker:**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atabzo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atabzo&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atabzo&theme=tokyonight" width="400" alt="Profile Summary"/>
 </p>
