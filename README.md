@@ -35,7 +35,7 @@ int atabzo(void)
 - Building @atabzo
 - Working on my tech-stack in the traditional way. (I'll hop right onto this after my exams)  
 - Strengthening my problem-solving skills  
-- Preparing myself to go full throttle in college
+- Preparing myself for the college (I wonder if I'll survive this)
 
 ---
 
