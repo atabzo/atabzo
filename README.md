@@ -4,16 +4,16 @@
 
 ### 💡 **Passionate about:**  
 - Photography/Cinematography
-- Adventure Lores? Hell yeah.
 - Coding meaningful projects
 - Hackathons and collaborative events
+- Adventures? The arc shall wait.
 
 ---
 
 ### 🔧 **What I'm Working On:**  
 - 🏆 Preparing for my first hackathon  
 - 🌱 Strengthening my problem-solving skills  
-- 📚 Upcoming college endeavours 
+- 📚 Pre-college endeavours 
 
 ---
 
