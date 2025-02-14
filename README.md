@@ -1,6 +1,6 @@
 # Heyyy there! I'm Bhanu :)
 
-🔍 **Exploring the world of code, creativity, and innovation.**  
+🔍 **Exploring the world of code, creativity, and innovation. Pessimism of the Intellect, Optimism of the Will.**  
 
 ### 💡 **Passionate about:**  
 - Photography/Cinematography
