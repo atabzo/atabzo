@@ -39,7 +39,7 @@ int atabzo(void)
 
 ---
 
-### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! To you, Don't lose hope and we shall make it, becoming the person we envision ourselves to be. Here's take hug with the orange car energy~
+### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! To you, Don't lose hope and we shall make it, becoming the person we envision ourselves to be. 
 
 ![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
 
