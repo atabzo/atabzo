@@ -1,5 +1,21 @@
 # Heyyy there! I'm Bhanu :)
 
+```c
+#include <awesomeness.h>
+
+int atabzo(void)
+{
+    char name[] = "bhanu"
+    char username[] = "@atabzo"
+    char identity[] = "computer science student";
+    char pronouns[] = "he/him";
+    char hobbies[] = "photography, adventures, reading, building stuff"
+    chat status[] = "on a timeskip arc"
+
+    return 1337;
+}
+```
+
 🔍 **Exploring the world of code, creativity, and innovation. Pessimism of the Intellect, Optimism of the Will.**  
 
 ### 💡 **Passionate about:**  
@@ -36,25 +52,7 @@ Nothing much honestly but thanks for reading! I'll make sure to update this once
 
 ---
 
-### 💬 **Checkout**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabzo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atabzo)  
 
-
-```c
-#include <awesomeness.h>
-
-int whoami(void)
-{
-    char name[] = "bhanu"
-    char username[] = "@atabzo"
-    char identity[] = "computer science student";
-    char pronouns[] = "he/him";
-    char hobbies[] = "
-
-    return 1337;
-}
-```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bhanupratapyadav)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
