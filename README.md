@@ -22,7 +22,7 @@ int atabzo(void)
 
 ---
 
-###  **I've taken a gap year to upskill, and prepare myself for the university. Until then, I’m keeping things lowkey here, but I’ll update this space once I get some time up my sleeves in college. I'm really passionate about-**  
+### 🏄 **I've taken a gap year to upskill, and prepare myself for the university. Until then, I’m keeping things lowkey here, but I’ll update this space once I get some time up my sleeves in college. I'm really passionate about-**  
 - Photography/Cinematography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
 - Coding meaningful projects
 - Hackathons and collaborative events
@@ -30,7 +30,7 @@ int atabzo(void)
 
 ---
 
-###  **What I'm Working On? Currently just my exam prep but I've been planning a few things alongside-**  
+### 🎨 **What I'm Working On? Currently just my exam prep but I've been planning a few things alongside-**  
 
 - Building @atabzo
 - Working on my tech-stack in the traditional way. (I'll hop right onto this after my exams)  
@@ -39,7 +39,7 @@ int atabzo(void)
 
 ---
 
-### And so I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! To you, Don't lose hope and we shall make it, becoming the person we envision ourselves to be. Here's take hug with the orange car energy~
+### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! To you, Don't lose hope and we shall make it, becoming the person we envision ourselves to be. Here's take hug with the orange car energy~
 
 ![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
 
