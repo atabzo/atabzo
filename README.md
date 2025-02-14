@@ -7,9 +7,9 @@ int atabzo(void)
 {
     char name[] = "bhanu"
     char username[] = "@atabzo"
-    char identity[] = "computer science student";
+    char identity[] = "18, computer science student";
     char pronouns[] = "he/him";
-    char hobbies[] = "photography, adventures, reading, building stuff"
+    char hobbies[] = "photography, adventures, reading, journaling, building stuff"
     chat status[] = "on a timeskip arc"
 
     return 1337;
