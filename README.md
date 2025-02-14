@@ -30,7 +30,7 @@ int atabzo(void)
 
 ---
 
-### 🎨 **What I'm Working On? Currently just my exam prep but I've been planning a few things alongside-**  
+### 🎨 **What I'm Working On? Currently just on my exams but I've been planning a few things alongside-**  
 
 - Building @atabzo
 - Working on my tech-stack in the traditional way. (I'll hop right onto this after my exams)  
