@@ -16,6 +16,12 @@ int atabzo(void)
 }
 ```
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bhanupratapyadav)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
+
+[Checkout this!](https://bento.me/atabzopixels)
+
 🔍 **Exploring the world of code, creativity, and innovation. Pessimism of the Intellect, Optimism of the Will.**  
 
 ### 💡 **Passionate about:**  
@@ -52,15 +58,3 @@ Nothing much honestly but thanks for reading! I'll make sure to update this once
 
 ---
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bhanupratapyadav)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
-
-## 🌐 My Digital Space  
-[![Bento](https://img.shields.io/badge/Bento.me-My%20Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bento.me/atabzopixels)  
-
-🚀 **Explore my work and projects here:**  
-🔗 **[bento.me/atabzopixels](https://bento.me/atabzopixels)**  
-
-![Bento Preview](https://bento.me/api/og?username=atabzopixels)
