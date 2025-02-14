@@ -18,9 +18,11 @@
 ---
 
 ### 🦅 I guess, that's all?
-Nothing much honestly but thanks for reading! I'll make sure to update this once I get with this college entrance arc and finally get some time up my sleeves. Thankyouu for reading nonetheless, Here's a hug with the orange car energy :)
+Nothing much honestly but thanks for reading! I'll make sure to update this once I get with this college entrance arc and finally get some time up my sleeves. Thankyouu for reading nonetheless, Here's a hug with the orange car energy
 
 ![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
+
+(This is your sign to not lose hope and we shall make it, let's become the person we envision ourselves to be)
 
 ---
 
