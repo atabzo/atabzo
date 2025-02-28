@@ -38,12 +38,6 @@ int atabzo(void)
 - Preparing myself for the college (I wonder if I'll survive this)
 
 ---
-
-### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! To you, Don't lose hope and we shall make it, becoming the person we envision ourselves to be. 
-
-![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
-
----
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atabzo&theme=tokyonight" width="1000" height="290" alt="Profile Summary"/>
 </p>
