@@ -9,7 +9,7 @@ int atabzo(void)
     char username[] = "@atabzo"
     char identity[] = "18, computer science student";
     char pronouns[] = "he/him";
-    char hobbies[] = "coding, cinematography, adventures, reading, building stuff"
+    char hobbies[] = "cycling, photography, building stuff"
     chat status[] = "on a timeskip arc"
 
     return 1337;
@@ -23,10 +23,10 @@ int atabzo(void)
 ---
 
 ### 🏄 **I'm currently preparing for university and spending time exploring myself. Until then, I’ll be keeping a low profile here, but I’ll update this space once I have more time on my hands in college. I'm really passionate about-**  
-- Spirituality
 - Photography/Cinematography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
 - Coding meaningful projects
-- Adventures? This arc shall wait.
+- Adventures? This arc shall wait
+- Creative thinking and journaling [I've something coming up for this]
 - Hackathons and collaborative events
 
 ---
