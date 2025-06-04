@@ -36,7 +36,6 @@ int atabzo(void)
 - Working on my tech-stack traditionally (I'll hop right onto this after my exams)  
 - Strengthening my problem-solving skills  
 - Preparing myself for the college (I wonder if I'll survive this?)
-- 
 ---
 
 ### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! And hey, to you- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's strive to become a better version of ourselves :) 
