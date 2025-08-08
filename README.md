@@ -1,4 +1,4 @@
-
+# Heyyy there! I'm Bhanu :)
 ```
 #include <awesomeness.h>
 
@@ -17,7 +17,7 @@ int atabzo(void)
 
 ---
 
-I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now). 
+I'm currently in my gap year where I'm preparing myself for the university while occassionally exploring and dabbling myself in all sorts of stuff from art, writing, photography and programming. The idea of coding meaningful projects fasinates me and I totally love immersing myself into knowledge and learning new stuff. And well, since I'm on the timeskip arc I'll be staying low here for a while (need to prioritize the university entrance exam for now)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bhanupratapyadav)
@@ -25,10 +25,10 @@ I'm currently in my gap year where I'm preparing myself for the university (jee-
 
 ---
 
-### **you might ask me- "hey what excites you the most? and I'd answer with**
+### **🏄‍♂️ you might ask me- "hey what excites you the most? and I'd answer with**
 - photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
-- absolutely enjoying coding (not having a "super appealing" tech stack yet but the idea of programming cool creative projects fascinates me and above all I love researching and learning new stuff)
-- creative writing and journaling (I've something coming up for this. take a guess?)
+- learning and working on meaningful creative projects!
+- creative writing and journaling (I've something coming up for this)
 - adventures? however this arc shall wait.
   
 ---
