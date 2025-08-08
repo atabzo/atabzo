@@ -1,4 +1,4 @@
-# Heyyy there! I'm Bhanu :)
+# heyy there! I'm Bhanu :)
 
 ```c
 #include <awesomeness.h>
