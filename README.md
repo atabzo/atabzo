@@ -22,6 +22,7 @@ I'm currently in my gap year where I'm preparing myself for the university while
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atabzo)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
+[![Twitter](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/atabzo)
 [![Instagram](https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atabzo)
 
 
