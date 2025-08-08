@@ -22,23 +22,17 @@ int atabzo(void)
 
 ---
 
-### 🏄 **I'm currently preparing for university and spending time exploring myself. Until then, I’ll be keeping a low profile here, but I’ll update this space once I have more time on my hands in college. I'm really passionate about-**  
-- Photography/Cinematography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
-- Coding meaningful projects
-- Adventures? This arc shall wait
-- Creative thinking and journaling [I've something coming up for this]
-- Hackathons and collaborative events
+### 🏄 I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now)
 
+### And you might ask, What excites me the most? I'll probably answer-
+- photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
+- enjoying coding (not having a "super appealing" but the idea of programming cool creative projects fascinates me)
+- creative writing and journaling (I've something coming up for this. take a guess?)
+- adventures? however this arc shall wait.
+  
 ---
 
-### 🎨 **What I'm Working On? Currently just on my exams but I've been planning a few things alongside-**  
-
-- Working on my tech-stack traditionally (I'll hop right onto this after my exams)  
-- Strengthening my problem-solving skills  
-- Preparing myself for the college (I wonder if I'll survive this?)
----
-
-### 🦅 I guess, that's all? I'll make sure to update this once I finally get with this college entrance arc and get some time up my sleeves. Thankyouu for reading nonetheless! And hey, to you- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's strive to become a better version of ourselves :) 
+### 🦅 I guess, that's all? And hey, to you- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's strive to become a better version of ourselves while enjoying the journey! 
 
 ![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
 
