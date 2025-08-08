@@ -22,9 +22,9 @@ int atabzo(void)
 
 ---
 
-### 🏄 I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now)
+I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now)
 
-### And you might ask, What excites me the most? I'll probably answer-
+### **🐱 If you ask me, What excites me the most? I'll probably answer-**
 - photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
 - enjoying coding (not having a "super appealing" but the idea of programming cool creative projects fascinates me)
 - creative writing and journaling (I've something coming up for this. take a guess?)
@@ -32,7 +32,8 @@ int atabzo(void)
   
 ---
 
-### 🦅 I guess, that's all? And hey, to you- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's strive to become a better version of ourselves while enjoying the journey! 
+### 🦅 and that's all? and hey you there- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's just trust the process while enjoying it. (every arc has it's own significance, you better document every bit of it)
+
 
 ![abortedfetus133-25-09-2024-0001](https://github.com/user-attachments/assets/44dfeee7-b5de-412c-8b03-a3d5e7c3f54c)
 
