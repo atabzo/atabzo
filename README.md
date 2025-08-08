@@ -1,6 +1,5 @@
-# heyy there! I'm Bhanu :)
 
-```c
+```
 #include <awesomeness.h>
 
 int atabzo(void)
@@ -16,17 +15,19 @@ int atabzo(void)
 }
 ```
 
+---
+
+I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now). 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bhanupratapyadav)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
 
 ---
 
-I'm currently in my gap year where I'm preparing myself for the university (jee-entrance exam) while occassionally exploring and dabbling myself in all sorts of stuff from art, writing (manifesting the glorius obsidian graph) and just enjoying programming. (ofc I'm not dedicating much time to this as the entrance exam takes the most priority right now)
-
-### **🐱 If you ask me, What excites me the most? I'll probably answer-**
+### **you might ask me- "hey what excites you the most? and I'd answer with**
 - photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
-- enjoying coding (not having a "super appealing" but the idea of programming cool creative projects fascinates me)
+- absolutely enjoying coding (not having a "super appealing" tech stack yet but the idea of programming cool creative projects fascinates me and above all I love researching and learning new stuff)
 - creative writing and journaling (I've something coming up for this. take a guess?)
 - adventures? however this arc shall wait.
   
