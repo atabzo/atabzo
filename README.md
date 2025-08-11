@@ -1,4 +1,16 @@
 
+# Heyyy there! I'm Bhanu :)
+
+I'm currently in my gap year where I'm preparing myself for the university while I occassionally dabble myself into art, creative writing, photography, programming and I totally love exposing myself to learn new things. The idea of coding meaningful projects while immersing myself into knowledge fascinates me. Although, I'm focusing on my entrance exam currently so until then I'll be staying low here but would make sure to be back once I get some time my sleeves. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atabzo)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
+[![Twitter](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/atabzo)
+[![Instagram](https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atabzo)
+
+---
+
 ```
 #include <awesomeness.h>
 
@@ -14,17 +26,6 @@ int atabzo(void)
     return 1337;
 }
 ```
-
-# Heyyy there! I'm Bhanu :)
-
-I'm currently in my gap year where I'm preparing myself for the university while I occassionally dabble myself into art, creative writing, photography, programming and I totally love exposing myself to learn new things. The idea of coding meaningful projects while immersing myself into knowledge fascinates me. Although, I'm focusing on my entrance exam currently so until then I'll be staying low here but would make sure to be back once I get some time my sleeves. 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atabzo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/818855965842472992)
-[![Twitter](https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/atabzo)
-[![Instagram](https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atabzo)
-
 
 ---
 
