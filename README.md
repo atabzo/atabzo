@@ -29,7 +29,7 @@ int atabzo(void)
 
 ---
 
-### **🏄‍♂️ You might ask me- "hey what excites you the most? and I'd answer with**
+### **🏄‍♂️ You might ask me- "hey, what excites you the most? and I'd answer with-**
 - photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
 - learning and working on meaningful creative projects
 - creative writing and journaling (I've something coming up for this)
