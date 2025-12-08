@@ -14,7 +14,7 @@ int atabzo(void)
 }
 ```
 
-# Heyyy there! I'm Bhanu :)
+# heyyy there! I'm Bhanu :)
 
 I'm currently in my gap year where I'm preparing myself for the university while I occassionally dabble myself into art, creative writing, photography, programming and I totally love exposing myself to learn new things. The idea of coding meaningful projects while immersing myself into knowledge fascinates me. Although, I'm focusing on my entrance exam currently so until then I'll be staying low here but would make sure to be back once I get some time up my sleeves. 
 
@@ -26,14 +26,14 @@ I'm currently in my gap year where I'm preparing myself for the university while
 
 ---
 
-### **🏄‍♂️ You might ask me- "hey, what excites you the most?" and I'd answer with-**
+### **🏄‍♂️ you might ask me- "hey, what excites you the most?" and I'd answer with-**
 - photography : [I've got a mini visual journal to share!](https://bento.me/atabzopixels)
 - learning and working on meaningful creative projects
 - creative writing and journaling (I've something coming up for this)
 - cycling and adventures? however this arc shall wait.  
 ---
 
-### 🦅 And that's all? and hey you there- don't lose hope and we shall make it, we'll become the person we envision ourselves to be so until then let's just trust the process and remember the key to success isn't constant misery rather obsession :3
+### 🦅 and that's all I guess? and hey you there... don't lose hope! we shall make it, we'll become the person we envision ourselves to be so let's just enjoy the romanticize the journey, and remember that the key to success isn't constant misery rather obsession :3
 
 <img width="1820" height="1644" alt="atabzo-we'll make it-min" src="https://github.com/user-attachments/assets/960b3851-bbf9-478f-9eec-e26d7dde136b" />
 
