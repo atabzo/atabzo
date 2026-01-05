@@ -16,7 +16,7 @@ int atabzo(void)
 
 # heyyy there! I'm Bhanu :)
 
-I’m in my gap year arc right now, prepping for university and occasionally diving into art, writing, photography, and code. I love the process of learning and the idea of building meaningful projects. I’m focusing hard on entrance exams at the moment, so I’ll be staying low-key here for a while, but I’ll definitely be back once I have some free time up my sleeves!
+I’m in my gap year arc right now, prepping for university and occasionally diving into art, writing, photography, and code. I love the process of learning and the idea of building meaningful projects. I’m focusing hard on entrance exams at the moment, so I’ll be staying low here for a while, but I’ll definitely be back once I have some free time up my sleeves!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atabzo) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atabzo)
