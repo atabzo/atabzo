@@ -18,7 +18,7 @@ i'm an avid learner who likes doing art, cinematography, photography, and buildi
 ### 🐋 **if you ask me "hey hey bhanu, what excites you the most?" then i'd answer with-**
 - art : i love drawing and making animations _(still learning but this gives me joy)_
 - gamedev : it's the perfect ground to practice my artistic side [(play my games here!!!)](https://atabzo.itch.io/)
-- photography : i like documenting everything by taking pictures and making sketches (i've something coming up for this very soon!!!)
+- photography : i like documenting everything through pictures and sketches (i've something coming up for this very soon!!!)
 - literature and creative writing : [subscribe to my substack? i'll clear my drafts soon :D](https://atabzo.substack.com/)
 - cycling and going on whimsical adventures (also hackclub events yay)
 
