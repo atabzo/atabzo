@@ -1,6 +1,6 @@
 
 
-# hey, i'm bhanu! :)
+# hey! i'm bhanu :)
 
 <samp>
 i'm an avid learner who likes doing art, cinematography, photography, and building apps/games. i love the process of learning and the idea of building something fascinating! i'm also a member of the @hackclub and occasionally do some side quests there :D
@@ -22,4 +22,4 @@ i'm an avid learner who likes doing art, cinematography, photography, and buildi
 - literature and creative writing : [subscribe to my substack? i'll clear my drafts soon :D](https://atabzo.substack.com/)
 - cycling and going on whimsical adventures (also hackclub events yay)
 
-and... trying something new? since _"in life, we're always learning"_ plus i strongly resonate with the philosphy of _"study to  become accomplished, not affluent"_, and attending hackclub events somehow turned my brain chemicals in the perfect direction helping me regain my spark
+and... trying something new? someone once said _"in life, we're always learning"_ plus i strongly resonate with the philosphy of _"study to  become accomplished, not affluent"_, and attending hackclub events somehow turned my brain chemicals in the perfect direction helping me regain my spark to pursue things which fascinate me
