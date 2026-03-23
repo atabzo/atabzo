@@ -22,3 +22,4 @@ i'm an avid learner who likes doing art, cinematography, photography, and buildi
 - literature and creative writing : [subscribe to my substack? i'll clear my drafts soon :D](https://atabzo.substack.com/)
 - cycling and going on whimsical adventures (also hackclub events yay)
 
+and trying something new since _"in life, we're always learning"_ plus i strongly resonate with the philosphy of "study to  become accomplished, not affluent", and attending hackclub events somehow turned my brain chemicals in the perfect direction, helping me regain my spark
