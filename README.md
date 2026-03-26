@@ -3,7 +3,7 @@
 # hey there, i'm bhanu! :)
 
 <samp>
-i'm an avid learner with a passion for art, cinematography, photography, and building apps/games. i love the process of learning and the idea of building something fascinating! i'm also a member of the @hackclub and occasionally take on side quests there. :D
+uhmm and I'm.... an avid learner with a passion for art, cinematography, photography, and building apps/games? okay so i love the process of learning and the idea of building something cool fascinates me! also a member of the @hackclub so i occasionally take on side quests there. :D
 </samp>
 
 
