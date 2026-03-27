@@ -28,6 +28,6 @@ and... trying something new? since someone once said _"in life, we're always lea
 
 <p align="center">
   <samp>
-checkout my  <a href="https://atabzo.com">website for more! :D</a>  for more! 
+checkout my  <a href="https://atabzo.com">website</a>  for more! :D 
   </samp> 
 </p>
