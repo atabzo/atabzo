@@ -1,9 +1,9 @@
 
 
-# hey there, i'm bhanu! :)
+# heyyy, i'm bhanu! :)
 
 <samp>
-uhmm and I'm.... an avid learner with a passion for art, cinematography, photography, and building apps/games? okay so i love the process of learning and the idea of building something cool fascinates me! also a member of the @hackclub so i occasionally take on side quests there. :D
+an avid learner with a passion for art, cinematography, photography, and building apps/games? okay so i love the process of learning and the idea of building something cool fascinates me! also a member of the @hackclub so i occasionally take on side quests there. :D
 </samp>
 
 
@@ -15,7 +15,7 @@ uhmm and I'm.... an avid learner with a passion for art, cinematography, photogr
 
 ---
 
-### 🐋 **if you ask me "hey hey bhanu, what excites you the most?" then i'd answer with-**
+## 🐋 **if you ask me "hey hey bhanu, what excites you the most?" then i'd answer with-**
 - art : i love drawing and making animations (it gives me joy though _i'm still learning_)
 - gamedev : it's the perfect ground to practice my artistic side [(play my games here!!!)](https://atabzo.itch.io/)
 - photography : i like documenting everything through pictures and sketches (i've something coming up for this very soon!!!)
