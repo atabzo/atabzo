@@ -7,7 +7,7 @@ i’m an 18yo learner passionate about art, cinematography, photography, and bui
 
 <p align="center">
   <samp>
-    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  •  <a href="https://atabzo.itch.io">gamedev</a> • <a href="https://instagram.com/sparklingsunbeams">instagram</a>
+    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  •  <a href="https://atabzo.itch.io">gamedev</a> • <a href="https://in.pinterest.com/sparklingsunbeams/">pinterest</a>
   </samp>
 </p>
 
