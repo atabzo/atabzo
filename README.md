@@ -24,10 +24,3 @@ i’m an 18yo learner passionate about art, cinematography, photography, and bui
 
 and... trying something new? since someone once said _"in life, we're always learning"_ 
 
-
-
-<p align="center">
-  <samp>
-checkout my  <a href="https://atabzo.com">website</a>  for more! :D 
-  </samp> 
-</p>
