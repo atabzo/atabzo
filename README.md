@@ -3,8 +3,7 @@
 # heyyy, i'm bhanu! :)
 
 
-i’m an 18yo learner passionate about art, cinematography, photography, and building apps and games. i believe in exploring things to become accomplished, not affluent... because the process of learning and the idea of creating something cool fascinates me! :D
-
+i’m an 18yo passionate about art, cinematography, photography, and building apps and games. 
 <p align="center">
   <samp>
     <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  •  <a href="https://atabzo.itch.io">gamedev</a> • <a href="https://vsco.co/atabzo/">vsco</a>
