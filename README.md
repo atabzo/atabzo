@@ -1,8 +1,8 @@
 
 
-# heyyy, i'm bhanu! :)
+## heyyy, i'm bhanu! :D
 
-i’m an 18yo passionate about art, cinematography, photography, and building apps and games. if you ask me "hey hey bhanu, what excites you the most?" then I'd answer with-
+i’m an 18yo passionate about art, cinematography, photography, and building apps and games. if you ask me "hey hey bhanu, what excites you the most? 🐋" then I'd answer with-
 
 - art : i love drawing and making short animations
 - gamedev : i make games sometimes since it's the perfect ground to practice my creative side [(checkout my games here!)](https://atabzo.itch.io/)
