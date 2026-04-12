@@ -3,6 +3,6 @@
 
 <p align="center">
   <samp>
-    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  •  <a href="https://atabzo.itch.io">games</a> • <a href="https://instagram.com/sparklingsunbeams/">instagram</a> • <a href="https://http://atabzo.substack.com//">substack</a>
+    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  •  <a href="https://atabzo.itch.io">games</a> • <a href="https://instagram.com/sparklingsunbeams/">instagram</a> • <a href="https://atabzo.substack.com/">substack</a>
   </samp>
 </p>
