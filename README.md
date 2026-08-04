@@ -1,8 +1,9 @@
-<img width="1280" height="534" alt="Group 1 (1)" src="https://github.com/user-attachments/assets/3737fd1a-a64d-47e9-84d0-268a150e6756" />
+
+<img width="1308" height="493" alt="sdfsdfdf" src="https://github.com/user-attachments/assets/878c9c3b-e926-4329-bea4-3bc599a5f268" />
 
 
 <p align="center">
   <samp>
-    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">twitter</a>  • <a href="https://instagram.com/sparklingsunbeams/">instagram</a> • <a href="https://atabzo.substack.com/">substack</a>
+    <a href="https://atabzo.com">website</a>  •  <a href="https://x.com/atabzo">x</a>  • <a href="https://instagram.com/sparklingsunbeams/">instagram</a> • <a href="https://atabzo.itch.io/">itch</a> 
   </samp>
 </p>
