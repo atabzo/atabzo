@@ -1,7 +1,6 @@
+<!-- <img width="1308" height="493" src="https://github.com/user-attachments/assets/04ebe57a-0e3c-4f64-badb-b3eae894d183" /> -->
 
-
-<img width="1308" height="493" alt="sdfsdfdf (1)" src="https://github.com/user-attachments/assets/04ebe57a-0e3c-4f64-badb-b3eae894d183" />
-
+<img width="1308" height="493" src="./campfire-flagship.png" />
 
 <p align="center">
   <samp>
